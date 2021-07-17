@@ -4,7 +4,7 @@ widget_id: biography
 headless: true
 weight: 20
 title: Biography
-active: False
+active: false
 author: admin
 ---
 this is my biography
